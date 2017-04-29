@@ -15,7 +15,7 @@ $ git clone https://github.com/zshuangyan/translate.git && cd translate
 $ python3 setup.py install
 ```
 
-## Usage
+### Usage
 
-# `translate WORD [WORD...]`
+### `translate WORD [WORD...]`
 
